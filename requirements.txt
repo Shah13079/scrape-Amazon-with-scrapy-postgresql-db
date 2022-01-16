@@ -1,0 +1,15 @@
+mysql-connector-python==8.0.25
+mysqlclient @ file:///D:/mysqlclient-1.4.6-cp39-cp39-win_amd64.whl
+numpy==1.21.5
+openpyxl==3.0.7
+psycopg2==2.9.3
+pyodbc==4.0.30
+Scrapy==2.5.1
+scrapy-crawlera==1.7.2
+SQLAlchemy==1.4.22
+itemadapter==0.4.0
+itemloaders==1.0.4
+numpy==1.21.5
+openpyxl==3.0.7
+
+
